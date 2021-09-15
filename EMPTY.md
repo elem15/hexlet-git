@@ -1,1 +1,2 @@
-same word
+same new word
+same new word
