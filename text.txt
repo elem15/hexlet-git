@@ -1,1 +1,5 @@
 experiment with amend
+experiment with add interactive
+one more string
+next string
+third string
